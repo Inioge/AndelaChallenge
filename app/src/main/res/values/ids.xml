@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fab_share" type="id" />
+    <item name="imageview_user_detail_avatar" type="id" />
+    <item name="textview_user_detail_name" type="id" />
+    <item name="textview_user_detail_url" type="id" />
+</resources>
